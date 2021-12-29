@@ -1,4 +1,5 @@
 # <a href="repository.yelo.repo.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="plugin.video.yelo.plays.zip">DOWNLOAD DO Plugin</a>
 
 Instruções para a adição no gestor:
 
