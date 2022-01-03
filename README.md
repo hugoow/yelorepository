@@ -1,5 +1,4 @@
-# <a href="repository.yelo.repo.zip">DOWNLOADDO REPOSITÓRIO</a>
-# <a href="plugin.video.yelo.plays.zip">DOWNLOAD DO Plugin</a>
+# <a href="plugin.video.yelo.plays.zip">Download Do Plugin</a>
 
 Instruções para a adição no gestor:
 
@@ -8,11 +7,11 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://LINK_DA_FONTE</code> (Dar o nome de "plugin.video.yelo.plays.zip").</li>
+    <li>O endereço para a fonte é <code>https://bit.ly/3JA0c3U</code> (Dar o nome de "Yelo Plays").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "plugin.video.yelo.plays.zip", e instalar <a href="plugin.video.yelo.plays.zip">plugin.video.yelo.plays.zip</a>.</li>
     -
-    <li>Repositório Instalado!</li>
+    <li>Pluguin Instalado!</li>
     
 </ul>Cancel changes
 
